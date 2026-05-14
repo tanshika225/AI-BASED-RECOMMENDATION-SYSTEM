@@ -228,3 +228,7 @@ The project can be improved further by adding:
 The AI Product Recommendation System is a smart and efficient application that uses Artificial Intelligence and Machine Learning techniques to provide personalized recommendations to users. By using collaborative filtering and user similarity analysis, the system successfully predicts products that users may be interested in. The project demonstrates the practical implementation of recommendation algorithms using Java and Apache Mahout.
 
 This project helps students and developers understand the importance of AI-powered recommendation systems in modern applications. It also enhances skills in Java programming, data analysis, and machine learning concepts. Due to its real-world applications and practical implementation, the project is highly suitable for academic mini projects, internships, GitHub portfolios, and LinkedIn showcases.
+
+## OUTPUT
+
+<img width="1128" height="488" alt="Image" src="https://github.com/user-attachments/assets/ac71420b-0b9d-4788-aff9-a2703ab110d9" />
